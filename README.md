@@ -1,6 +1,5 @@
 # :credit_card: E-commerce Back End 
-
-This application is an e-commerce backend site. An Express.js API was configured for it to use Sequelize and then interact with a MySQL database.
+This project it's about to build the back end for an e-commerce site by modifying starter code.In this project I have to configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ## Steps to get started:
 ```
@@ -12,7 +11,6 @@ This application is an e-commerce backend site. An Express.js API was configured
 _AS A manager at an internet retail company
 * I WANT a back end for my e-commerce website that uses the latest technologies
 * SO THAT my company can compete with other e-commerce companies_
-
 
 ## Application Acceptance Criteria:
 ```
