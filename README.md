@@ -1,12 +1,12 @@
-# E-commerce Back End :credit_card:
+# :credit_card: E-commerce Back End 
 
 This application is an e-commerce backend site. An Express.js API was configured for it to use Sequelize and then interact with a MySQL database.
 
 ## Steps to get started:
 ```
-- npm i (+ dependencies)
-- npm run seed
-- node server.js
+* npm i (+ dependencies)
+* npm run seed
+* node server.js
 ```
 ## User Story
 _AS A manager at an internet retail company
