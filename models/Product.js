@@ -43,7 +43,7 @@ Product.init(
       type: DataTypes.INTEGER,
       references: {
         //check if its correct without ''
-        model: Category,
+        model: 'category',
         key: 'id'
       }
     },

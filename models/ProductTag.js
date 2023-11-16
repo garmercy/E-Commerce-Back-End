@@ -17,7 +17,7 @@ ProductTag.init(
       type: DataTypes.INTEGER,
       references: {
         //check if its correct without ''
-        model: Product,
+        model: 'product',
         key: 'id'
       },
     
@@ -25,7 +25,7 @@ ProductTag.init(
       type: DataTypes.INTEGER,
       references: {
         //check if its correct without ''
-        model: Tag,
+        model: 'tag',
         key: 'id'
       },
       },
