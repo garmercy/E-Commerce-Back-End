@@ -21,13 +21,13 @@ ProductTag.init(
         key: 'id'
       },
     
-      tag_id:{
-        type: DataTypes.INTEGER,
-        references: {
-          //check if its correct without ''
-          model: ProductTag,
-          key: 'id'
-        },
+    tag_id:{
+      type: DataTypes.INTEGER,
+      references: {
+        //check if its correct without ''
+        model: Tag,
+        key: 'id'
+      },
       },
     },
   },
