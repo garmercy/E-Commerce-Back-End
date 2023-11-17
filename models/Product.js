@@ -23,7 +23,7 @@ Product.init(
     },
     
     price:{
-      type: DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL (10,2),
       allowNull: false,
       validate: {
       isDecimal: true,  
@@ -34,7 +34,7 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       //check if its correct default value
-      defaultValue: DataTypes.FLOAT(10), 
+      defaultValue: 10, 
       validate:{
       isNumeric: true,   
       },
@@ -42,7 +42,6 @@ Product.init(
     category_id:{
       type: DataTypes.INTEGER,
       references: {
-        //check if its correct without ''
         model: 'category',
         key: 'id'
       }
