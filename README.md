@@ -8,9 +8,11 @@ This project it's about to build the back end for an e-commerce site by modifyin
 * node server.js
 ```
 ## User Story
+```
 _AS A manager at an internet retail company
 <br> I WANT a back end for my e-commerce website that uses the latest technologies
 <br> SO THAT my company can compete with other e-commerce companies_
+```
 
 ## Application Acceptance Criteria:
 ```
