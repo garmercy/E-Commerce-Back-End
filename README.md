@@ -8,7 +8,6 @@ This project it's about to build the back end for an e-commerce site by modifyin
 * npm i (+ dependencies)
 * npm run seed
 * node server.js
-* npm start
 ```
 ## User Story
 ```
