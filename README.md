@@ -1,5 +1,7 @@
 # :credit_card: E-commerce Back End 
 This project it's about to build the back end for an e-commerce site by modifying starter code.In this project I have to configure a working Express.js API to use Sequelize to interact with a MySQL database.
+## Link to the video:
+[Video E-commerce Back End ](https://drive.google.com/file/d/1otbIktnHvWaz0iCET86oFdcSFiXMAwJv/view)
 
 ## Steps to get started:
 ```
@@ -13,7 +15,6 @@ _AS A manager at an internet retail company
 <br> I WANT a back end for my e-commerce website that uses the latest technologies
 <br> SO THAT my company can compete with other e-commerce companies_
 ```
-
 ## Application Acceptance Criteria:
 ```
 * GIVEN a functional Express.js API
@@ -28,4 +29,4 @@ _AS A manager at an internet retail company
 * WHEN I test API POST, PUT, and DELETE routes in Insomnia
 * THEN I am able to successfully create, update, and delete data in my database
 ```
-## Mock Up:
+
